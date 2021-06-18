@@ -18,11 +18,18 @@ Vmware를 통해 가상 Host를 배치하여 두 장치 사이에서의 Data Com
 
 ![sim](https://user-images.githubusercontent.com/28483545/122579099-88dcbb00-d08f-11eb-9c72-523f52791caa.png)
 
+![sim](https://user-images.githubusercontent.com/28483545/122580020-7ca52d80-d090-11eb-914e-b07546dcfd87.png)
+
 ### 3. Stop & Wait
+(Flow control and no error control)
 
 ![stop](https://user-images.githubusercontent.com/28483545/122579359-cb9e9300-d08f-11eb-8768-9d887fbc6f21.png)
+
+![stop](https://user-images.githubusercontent.com/28483545/122579925-639c7c80-d090-11eb-82fa-895c26d5ff93.png)
 
 ### 4. Chatting & File Transfer
 FileAppLayer 추가구현. header를 통해 file과 chat 구분.
 
 ![chat](https://user-images.githubusercontent.com/28483545/122579581-0274a900-d090-11eb-9f6c-2175923daacb.png)
+
+![stop](https://user-images.githubusercontent.com/28483545/122579925-639c7c80-d090-11eb-82fa-895c26d5ff93.png)
